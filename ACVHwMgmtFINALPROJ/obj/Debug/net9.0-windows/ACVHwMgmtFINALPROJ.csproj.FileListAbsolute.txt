@@ -1,0 +1,106 @@
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.exe
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.deps.json
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.runtimeconfig.json
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.pdb
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.Form1.resources
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.GenerateResource.cache
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.AssemblyInfoInputs.cache
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.AssemblyInfo.cs
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\refint\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.pdb
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.genruntimeconfig.cache
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ref\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.Form2.resources
+C:\Users\aidan\Desktop\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.Form3.resources
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.exe
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.deps.json
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.runtimeconfig.json
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.pdb
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.Form1.resources
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.Form2.resources
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.Form3.resources
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.Form4.resources
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.GenerateResource.cache
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.AssemblyInfoInputs.cache
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.AssemblyInfo.cs
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.CoreCompileInputs.cache
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\refint\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.pdb
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.genruntimeconfig.cache
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ref\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\OneDrive - Sandhills Community College\College Work\Semester 4 (Current)\Advanced C# Programming\Final\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.AssemblyReference.cache
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.exe
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.deps.json
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.runtimeconfig.json
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.pdb
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.AssemblyReference.cache
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.GenerateResource.cache
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.AssemblyInfoInputs.cache
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.AssemblyInfo.cs
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgm.78DAD0C0.Up2Date
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\refint\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.pdb
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.genruntimeconfig.cache
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ref\ACVHwMgmtFINALPROJ.dll
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.AdminPage.resources
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.InstructorPage.resources
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.LoginPage.resources
+C:\Users\aidan\Downloads\ACVHwMgmtFINALPROJ\ACVHwMgmtFINALPROJ\obj\Debug\net9.0-windows\ACVHwMgmtFINALPROJ.StudentPage.resources
